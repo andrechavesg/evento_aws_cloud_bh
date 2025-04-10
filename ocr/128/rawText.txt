@@ -1,0 +1,31 @@
+
+Cloud
+Limite o acesso aos seus dados, modelos e outputs aws
+Experience
+2025
+identidade e zero trust para controlar o acesso a dados em
+cargas Use de trabalho de IA generativa
+dados de treinamento, modelos e aplicativos
+Aplique uma política de privilégios mínimos aos
+usando o AWS IAM Identity Center e o IAM Access
+nce
+Ca
+®
+Analyzer.
+av
+AWS IAM
+Amazon Verified
+Identity Center
+Permissions
+Explore mais recursos de Zero Trust para
+adicionar controles de acesso detalhados com O
+AWS Verified Access e O Amazon Verified
+Permissions.
+IAM
+AWS Verified
+Access Analyzer
+Access
+Use O AWS Verified Access para eliminar ainda
+mais os custos, a complexidade e os problemas de
+desempenho relacionados às VPNs.
+19

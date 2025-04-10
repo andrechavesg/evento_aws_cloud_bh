@@ -1,0 +1,20 @@
+
+Cloud
+laws
+Experience
+2025
+Treine e avalie modelos
+Crie modelos de alta qualidade
+-
+para regressão, classificação,
+97.303%
+Cloud
+previsão e ajuste fino de FM
+Experience
+Use o AutoML ou selecione
+2025
+algoritmos
+Escolha métricas objetivas, divisões
+de dados e outros controles de
+modelo
+Analise as métricas do modelo

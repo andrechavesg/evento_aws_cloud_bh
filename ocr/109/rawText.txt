@@ -1,0 +1,12 @@
+
+Cloud
+aws
+Experience
+2025
+Agenda
+Cloud
+Abordagem da AWS para uso seguro da IA
+Experience
+2025
+Camada de aplicação: Segurança para Amazon Q
+Data flow e ferramentas para proteção

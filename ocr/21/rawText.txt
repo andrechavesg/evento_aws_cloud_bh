@@ -1,0 +1,16 @@
+
+Monitoramento
+Monitore a taxa de transferência, a latência e as tendências de uso de tokens para todos os seus
+aplicativos LLM.
+aws
+aws
+26.06
+tokens/sec
+51.36c
+713
+traces
+0.39
+0.78
+97.26%
+190
+96

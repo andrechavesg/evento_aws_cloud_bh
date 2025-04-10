@@ -1,0 +1,33 @@
+
+Como funciona o roteamento?
+Use o agente
+Crie um agente supervisor
+Descrições de colaboração
+= SUPERVISOR ROUTER
+&
+modelo kipo de roteador = "small-fast-model:1.0"
+Roteador atimizado
+contexto
+Roteamento
+Descripted
+Entrada do
+Classificação
+decisão
+Usuário
+de intenção
+a
+Use para lidar com
+férias e folgas
+Agente de RH
+remuneradas
+Especialista em
+Exemplo de conversa
+Use para lidar com
+"Quantas férias ainda faltam?" Uso: Especialista em folgas
+solicitações de licenças
+Especialista
+licencas
+Use para lidar com
+discussões de promoção
+Especialista em
+promação

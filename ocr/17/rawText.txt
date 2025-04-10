@@ -1,0 +1,27 @@
+
+Arquitetura para aplicativos de LLM para "aumentar" sua
+resposta extraindo informações relevantes de um banco de
+dados externo
+Geração
+Fornece respostas mais informadas e contextualmente precisas
+Por exemplo:
+aws
+Clo
+Aumentada
+o chatbot de comércio eletrônico de móveis precisa
+aws
+responder a perguntas específicas sobre um item de
+Exp
+de
+estoque, como um sofa
+20
+Como funciona:
+Recuperação
+Na etapa de recuperação, o sistema pesquisa em um banco
+de dados externo as informações relacionadas à consulta
+(RAG)
+Na etapa de geração, o LLM usa as informações
+recuperadas para elaborar uma resposta detalhada e
+precisa, garantindo que o resultado final seja enriquecido
+com dados atualizados e específicos
+DATADOG

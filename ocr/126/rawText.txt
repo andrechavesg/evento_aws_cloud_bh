@@ -1,0 +1,37 @@
+
+Amazon Bedrock data flows
+aws
+Cloud
+Experience
+2025
+2002
+AWS Region network
+Amazon Bedrock
+Model deployment account
+Customer account
+(AWS owned and operated)
+service account
+D
+Customer VPC
+Base model S3
+On-demand
+Bucket
+rience
+Compute
+av
+Cliente
+API
+Orchestration
+GO
+endpoint
+Model staging account
+(model provider)
+AWS PrivateLink
+Model artifacts
+laws
+d
+Corporate network
+AWS Region security services
+AWS Direct
+Cliente
+Connect

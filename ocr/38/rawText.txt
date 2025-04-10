@@ -1,0 +1,23 @@
+
+Gerenciamento de dados simplificado com Gen Al
+Q in Amazon QuickSight
+Enable Generative BI with intuitive natural language experiences
+Experiência
+Cloud
+O in Amazon SageMaker
+O in AWS Glue
+Code Assistance & debug
+Agir
+Automatically author jobs and troubleshoot related issues
+Experience
+a
+2025
+Al recommendations in Amazon DataZone
+Governe
+Automated labor intensive process of data cataloging
+Armazene &
+O in Amazon Redshift
+Gerencie
+Submit query requests in plain English & generate SQL code recommendations
+based on Large Language Models
+aws

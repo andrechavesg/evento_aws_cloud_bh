@@ -1,0 +1,29 @@
+
+Arquitetura de orquestração de
+registar e executar
+agentes
+simulação
+Agente de Títulos
+obter status
+Agente Suporte
+Hipotecas existentes
+Documentação
+Orquestração
+hipoteca
+Bate-papo
+000
+Agente Perguntas
+Agente Supervisor
+Agente de Hipoteca
+hipotecas
+(***)
+obter detalhes
+de aplicação
+Agente Suporte
+Aplicações de hipoteca
+(***)
+consultar banco
+de dados
+Agente de Finanças Pessoais
+Documentação sobre empréstimos
+Agente de Empréstimos

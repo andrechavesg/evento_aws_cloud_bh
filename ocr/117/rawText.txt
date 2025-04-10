@@ -1,0 +1,37 @@
+
+Cloud
+aws
+Experience
+2025
+Segurança e proteção
+Use o AWS PrivateLink para acessar o
+Amazon Q Business com segurança em
+Use guardrails
+seu ambiente VPC usando um VPC
+ud
+previamente concebidos
+endpoint
+contra toxicidade
+erience
+Integra-se com o IAM Identity
+a
+Restringir respostas apenas
+Center para facilitar o
+5
+ao conteúdo empresarial
+gerenciamento, a auditoria e o
+controle
+Especifique palavras ou frases
+Integra-se com O AWS CloudTrail
+bloqueadas que nunca
+para registrar ações realizadas por
+aparecem nas respostas
+um usuário, função ou serviço da
+Defina tópicos especiais e
+AWS
+ST
+configure guardrails para
+Suporte para Federal Information
+tais tópicos
+FIPS
+Processing Standard (FIPS) endpoints

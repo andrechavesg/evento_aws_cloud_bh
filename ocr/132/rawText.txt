@@ -1,0 +1,38 @@
+
+Cloud
+IA generativa: aplicativos empresariais
+aws
+Experience
+2025
+APLICAÇÕES QUE UTILIZAM LLMS E 2HEROS MODELOS FUNDACIONALS
+d
+rience
+FERRAMENTAS PARA DESENVOLVER COM LLMS E outers MODELOS
+5
+FUNDACION
+INFRAESTRUTURA PARA TREINO DE MODELOS FUNGACIONAIS
+GPUs
+AWS
+AWS
+21
+Amazon SageMaker
+Trainium
+Inferentia
+0
+Amazon EC2
+C
+Elastic
+Amazon EC2
+S
+AWS
+AWS
+UltraClusters
+Fabric
+Capacity Blocks for
+Nitro
+Neuro
+Adapter
+ML
+System
+n
+23

@@ -1,0 +1,10 @@
+
+Desafios ao trabalhar com LLMs
+aws
+aws
+Alucinações
+Qualidade de resposta variável
+Dependência de modelos e
+Segurança e proteção
+custos de terceiros
+DATADOG 15

@@ -1,0 +1,20 @@
+
+Vários agentes Amazon Bedrock
+Propósito
+Nome do agente
+Orquestrar a interação com cliente e atender suas
+Agente Supervisor
+demandas
+ce
+Agente de Finanças Pessoais
+Analisar gastos no cartão de crédito
+(Personal Finances)
+Agente de Empréstimos
+Assessorar clientes quanto a produtos de empréstimos
+(Loans)
+Agente de Hipoteca
+Fornecer assistência para assuntos de hipoteca
+(Mortgage)
+Agente de Títulos
+(BondAgent)
+Realizar simulações de investimentos

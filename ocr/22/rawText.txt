@@ -1,0 +1,28 @@
+
+wdym Observabilidade da IA # AIOps?
+Observabilidade da IA
+AIOps
+Monitorar O desempenho e as
+Capacidade em toda a plataforma
+aws
+operações de sistemas e aplicativos
+que aproveita a IA para aprimorar e
+de ML/AI
+automatizar as operações
+Ou seja, observar a pilha de IA
+Ou seja, acelera as tarefas
+automatizando tarefas de rotina,
+ou os aplicativos de IA
+analisando dados e prevendo
+Produtos Datadog
+problemas antes que eles
+Observabilidade do LLM
+ocorram
+Produtos Datadog
+Integrações de agentes para
+Watchdog
+plataformas de IA
+BitsAl
+mais por vir
+BitsAl Investigador de Incidentes
+DATADOG 29

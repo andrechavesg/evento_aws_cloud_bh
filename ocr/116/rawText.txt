@@ -1,0 +1,34 @@
+
+Cloud
+aws
+Experience
+Amazon Q Business - visão geral
+2025
+Fornece respostas rápidas, precisas
+e relevantes para suas perguntas
+comerciais, de forma segura e
+IL
+privada
+Executa ações usando plug-ins
+Amazon Q Business
+prontos para uso ou
+ence
+Your generative A assistant for work
+personalizados
+av
+Respeita O controle de acesso
+C
+existente com base nas permissões
+do usuário
+Choose
+Conecta-se a mais de 40 aplicativos
+empresariais populares e
+repositórios de documentos
+Permite que os administradores
+apliquem facilmente guardrails
+para personalizar e controlar
+respostas
+o
+Simplifica as tarefas diárias com
+aplicativos leves criados pelo
+usuário

@@ -1,0 +1,18 @@
+
+Amazon SageMaker Canvas
+aws
+Cloud
+Experience
+2025
+Modelos de ML prontos para uso, incluindo modelos de fundação
+Acesse, avalie e personalize FMs do Amazon Bedrock e do Amazon SageMaker
+JumpStart
+erience
+av
+Construção de modelos de ponta a ponta
+Prepare dados, treine e implante modelos na produção sem escrever
+código
+Ro
+Impulsione a colaboração com especialistas de ML
+Compartilhe modelos com o Amazon SageMaker Studio e o Amazon
+QuickSight

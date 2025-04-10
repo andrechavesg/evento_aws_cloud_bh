@@ -1,0 +1,19 @@
+
+Solução de problemas
+Visualize todas as etapas das cadeias de aplicativos e chamadas do LLM para identificar solicitações
+problemáticas e identificar a causa raiz dos erros
+LLM Observability
+Traces
+Clasters
+LLM Calls
+2
+Models
+aws
+aws
+Quality Metrics
+INPUT
+OUTPUT
+Status
+ON
+Error
+E

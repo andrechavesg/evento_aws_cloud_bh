@@ -1,0 +1,21 @@
+
+Cloud
+Como funciona: Amazon Bedrock Guardrails
+aws
+Experience
+2025
+FM inference
+FM output
+i
+Input do usuário
+d
+rience
+Políticas de IA responsável
+a
+Filtros de conteúdo
+Tópicos negados
+Filtro de relevância
+Filtros de sensibilidade
+Filtros de palavras
+Filtro de alucinações
+Resposta Final

@@ -1,0 +1,21 @@
+
+Cloud
+aws
+Treine e avalie modelos
+Experience
+a
+2025
+Crie modelos de alta qualidade
+Configure model
+Cloud
+para regressão, classificação,
+previsão e ajuste fino de FM
+Experience
+Use o AutoML ou selecione
+025
+av
+algoritmos
+Escolha métricas objetivas, divisões
+de dados e outros controles de
+modelo
+Save

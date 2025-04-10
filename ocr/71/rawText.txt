@@ -1,0 +1,23 @@
+
+Gere previsões altamente precisas
+aws
+Cloud
+Experience
+2025
+Previsões no aplicativo e
+ud
+análises hipotéticas
+perience
+Automatize as previsões
+25
+Automate batch prediction
+x
+Select dataset to generate predictions for Every time the selected dataset is
+updated (either manually OF automatically) new automatic batch prediction
+job runs
+Prediction frequency
+© Immediate
+Every time the selected dataset is updated
+Select dataset to generate predictions on
+Select datased
+Cancel

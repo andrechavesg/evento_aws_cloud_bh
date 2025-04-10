@@ -1,0 +1,27 @@
+
+Cloud
+aws
+Experience
+RETRIEVAL AUGMENTED GENERATION (RAG)
+2025
+Incorporar conhecimento especializado por meio de prompt
+augmentation
+Usar conhecimento empresarial existente
+Nenhuma alteração no modelo de base
+AI AGENTS
+ence
+Habilite fluxos de trabalho multietapas usando seus sistemas
+a
+empresariais
+Faça com que a IA
+Realize ações e consulte dados em tempo real por meio de APIs no
+generativa use seus
+momento da inferência
+dados
+Nenhuma alteração no modelo de base
+CUSTOMIZAÇÃO DE MODELO
+Conhecimento generalizado e especializado para seu domínio
+Ajuste fino e pré-treinamento contínuo com dados corporativos
+Criar uma cópia privada do modelo de base
+18
+Tella

@@ -1,0 +1,17 @@
+
+Escolha dos principais modelos de
+base (FMs) por meio de uma única
+API
+Importação, destilação e ajuste
+fino de modelos
+Amazon Bedrock
+Ferramentas de IA generativa -
+A maneira mais fácil de criar e
+bases de conhecimento (RAG),
+escalar aplicações de IA
+barreiras de proteção, fluxos e
+generativa com modelos de
+agentes
+base
+Segurança, privacidade e
+governança de dados

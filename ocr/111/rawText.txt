@@ -1,0 +1,45 @@
+
+Cloud
+aws
+Experience
+Dimensões de responsabilidade da IA
+2025
+PROTEÇÃO
+CONTROLABILIDADE
+EXPLICABILIDADE
+Cloud
+EQUIDADE
+Prevenir O mal uso do Sistema, bem
+Possuir mecanismos
+Entender avaliar os
+como resultados prejudiciais
+Experience
+Consideran os impactos em
+resultados entregues pelo
+para monitorar e conduzir o
+diferentes grupos partes
+comportamento dos sistemas de IA
+sistema
+interessadas
+2025
+PRIVACIDADE E
+TRANSPARÊNCIA
+VERACIDADE E
+GOVERNANÇA
+ROBUSTEZ
+SEGURANÇA
+Obter, usar proteger dados e
+Incorporar melhores práticas
+Possibilitar os stakeholders a
+Alcançar resultados corretos
+modelos de forma apropriada
+best practices
+tomar infromações informadas
+entregues pelo sistema,
+na cadeia de oferta de IA
+sobre seu contato uso de
+mesmo com inputs não experados
+Incluindo provedores e
+sistemas de LA
+ou controversos
+distribuidores

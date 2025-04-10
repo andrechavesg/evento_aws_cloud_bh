@@ -1,0 +1,14 @@
+
+Experimente a colaboração
+multiagente do Amazon Bedrock
+Exemplos prontos para serem executados:
+Crie uma estratégia de marketing
+Converse com uma empresa hipotecária
+a
+Planeje uma viagem
+Gerencie a eficiência energética
+Experimente você mesmo!
+Inicie um POC para automatizar um processo complexo
+Crie um protótipo de uma experiência de bate-papo com
+vários agentes
+Conte-nos o que você adoraria ver a seguir!

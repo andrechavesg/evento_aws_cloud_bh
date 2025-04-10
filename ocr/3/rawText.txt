@@ -1,0 +1,65 @@
+
+Amazon Bedrock 2025
+TOOLS
+Customize with
+Orchestrate
+Developer
+your data
+and execute
+experience
+Knowledge
+Bedrock
+Data
+Fine
+Model
+Bases
+tuning
+Distillation
+Agents
+Flows
+Prompe
+IDE
+Prompt
+Automation
+management
+optimization
+MODEL CHOICE AND EVALUATION
+Base foundation models
+More models
+Evaluation
+amazon
+ANTHROPIC 00Meta 4 Luma stability.o
+Custom
+Programmatic
+RAG
+Consultant
+Bedrock
+model
+Marketplace
+LMM
+A121kobs
+cohere
+M3
+Spoolside
++
+import
+Human
+Judge
+INFERENCE AT SCALE
+Flexible options
+Optimized inference
+Global reach
+Provisioned
+Prompt
+intelligent Prompt Latency-optimized
+Worldwide
+Cross-region
+On demand
+Batch
+throughput
+Caching
+Routing
+inference
+regions
+inference
+aws

@@ -1,0 +1,47 @@
+
+mas se você levar um ÚNICO
+agente lo
+Ações de folgas remuneradas
+obtenha-saldo-de-férias
+Even)
+obtenha-saldo-banco-de-horas
+reserve-uma-folga
+Microsserviço de
+Banco de dados de
+reserve-uma-férias
+folga remunerada
+folga remunerada
+Ações de ausências e licenças
+inicie-uma-licença
+estender-licença
+terminar-licença
+obter-detathes-da-licença
+Serviço de
+Banco de dados de
+Base de conhecimento de RH
+ausências e licenças
+ausências e licenças
+V4
+Pesquisar politicas de RH
+Base de conhecimento de promoção
+Políticas de folgas
+Agente de
+Políticas de promoção
+folgas de RH
+Políticas de promoção
+Ações de folha de pagamento
+obter-ultimo-recibo-de-pagamento
+enviar-ticket-de-folha-de-pagamentos
+gerenciar-deduções
+Ações de treinamento
+Serviço terceirizado de
+folha de pagamento
+encontre-treinamento
+(***)
+listar-certificações
+inscrever-se-para-curso
+enviar-avaliação
+Microsserviço de
+Banco de dados de
+treinamento
+treinamento

@@ -1,0 +1,19 @@
+
+Cloud
+aws
+Experience
+Privacidade e governança de dados
+2025
+Você está sempre em controle dos seus dados
+O Amazon Q Business usa modelos de aprendizado de máquina pré-treinados
+Cloud
+Experience
+Os dados do cliente bem como (ou dados de feedback) não são usados para AWS ajuste
+seja, dados ingeridos no Amazon Q Business, treinamento, dados de
+fino conversação, ou melhoria de modelos de aprendizado de máquina pela
+2025
+O Amazon Q Business é um serviço regional: os dados do cliente são armazenados na
+região onde O aplicativo Amazon Q Business é criado
+Os dados do cliente são sempre criptografados em trânsito com um mínimo de TLS1.2
+O Amazon Q Business criptografa todos os dados em repouso usando o AWS Key
+Management Service (KMS)

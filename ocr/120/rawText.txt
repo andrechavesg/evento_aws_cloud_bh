@@ -1,0 +1,24 @@
+
+Cloud
+aws
+Experience
+2025
+Acelere o desenvolvimento de aplicações de IA
+ud
+generativa usando FMs por meio de uma API,
+sem gerenciar infraestrutura
+erience
+5
+Amazon
+Escolha FMs da Amazon, A121 Labs,
+Anthropic, Cohere, Meta, Mistral Al e
+Bedrock
+Stability Al para encontrar O FM certo para
+seu caso de uso
+A maneira mais fácil de criar e
+Construído com segurança de dados,
+privacidade e segurança em mente
+dimensionar aplicativos de IA
+generativa com modelos
+fundacionais (FMs)
+15

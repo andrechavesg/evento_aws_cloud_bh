@@ -1,0 +1,14 @@
+
+Os agentes começam pequenos e
+focados
+Ações de folgas remuneradas
+D
+(***
+obtenha-saldo-de-férias
+obtenha-saldo-banco-de-horas
+reserve-uma-folga
+Agente de
+Microsserviço de Banco de dados de
+reserve-uma-férias
+folga remunerada folga remunerada
+folgas de RH

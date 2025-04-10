@@ -1,0 +1,24 @@
+
+Os aplicativos do LLM são alimentados por "agentes" do
+LLM, que é um programa que divide uma entrada (pergunta
+do usuário final) em execuções passo a passo para
+Técnicas de
+responder à pergunta
+Sequência de chamadas de operações, LLMs, ferramentas
+IS
+estímulo
+de software ou etapas de pré-processamento de dados
+aws
+Cloud
+Experience
+baseadas em
+Por exemplo, um chatbot de comércio eletrônico poderia ter
+2025
+a seguinte "cadeia" depois de receber uma entrada:
+cadeias
+classificar a entrada (por exemplo, sobre 0 que é a
+pergunta? desconto? política de devolução?)
+formato de resposta
+fazer uma chamada para a OpenAl
+retornar a resposta ao usuário
+DATADOG

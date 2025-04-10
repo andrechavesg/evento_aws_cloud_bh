@@ -1,0 +1,68 @@
+
+Diretrizes de segurança para IA Generativa
+aws
+Cloud
+Experience
+2025
+COMPLIANCE E
+CONTROLES
+GERENCIAMENTO DE
+ESILIÊNCIA
+PRIVACIDADE
+OVERNANÇA
+RISCO
+ence
+Politicas, procedimentos ea
+Os requisitos regulatórios,
+A implementação de controles
+Identificação de possíveis
+Como arquitetar soluções
+apresentação de relatórios
+legais de privacidade
+de segurança usados para
+ameaças às soluções de IA
+de IA generativa para
+necessários para empoderar
+especificos para usar ou
+mitigar riscos
+generativa mitigações
+manter a disponibilidade e
+o negócio, ao mesmo tempo
+criar soluções de IA
+recomendadas
+atender aos SLAs de
+que minimizam risco
+generativa
+negócios
+-
+Criar diretrizes de uso para
+-
+IA generativa
+Manter controle dos
+seus dados
+Modelagem de ameaças
+Estratégia de
+Explicabilidade e
+Estabelecer um processo de
+gerenciamento de dados
+Criptografar dados em
+auditabilidade
+Avaliações de risco de
+validação de saida
+transito em repouso
+terceiros
+Estratégia de
+Estratégia de testes
+disponibilidade
+Desenvolver processos de
+Apoian os padrões
+Propriedade dos dados,
+monitoramento
+regulatórios
+Gerenciamento de identidade
+incluindo prompts e
+Estratégia de recuperação
+e acesso
+respostas
+de desastres
+Amount Will Sendion Confidential and Trademark

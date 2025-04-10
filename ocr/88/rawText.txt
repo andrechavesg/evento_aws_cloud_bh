@@ -1,0 +1,25 @@
+
+e assim por diante
+Ações de folgas remuneradas
+obtenha-saldo-de-férias
+obtenha-saldo-banco-de-horas
+reserve-uma-folga
+Microsserviço de
+Banco de dados de
+reserve-uma-férias
+folga remunerada
+folga remunerada
+Base de conhecimento
+de RH
+V3
+Pesquisar políticas de RH
+Políticas de folga
+Agente de
+folgas de RH
+Ações de ausências e licenças
+inicie-uma-licença
+estender-licença
+terminar-licença
+obter-detalhes-da-licença
+Banco de dados de
+ausências e licenças

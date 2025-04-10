@@ -1,0 +1,19 @@
+
+Cloud
+aws
+Experience
+Resumo dos principais casos de uso
+2025
+C
+Acabe com débitos técnicos em escala
+dependências com o Amazon Q Developer Agent para transformação de código
+Modernize projetos e atualize a versões de código e
+C
+Impulsione a produtividade do desenvolvimento
+Obtenha recomendações de codificação inline, resuma, documente o código,
+escaneie problemas de segurança, identifique e solucione bugs e escreva testes
+de unidade
+C
+Melhore a segurança e a qualidade do código
+Código mais seguro com menos esforço, com a scan de e correção
+automatizada de código

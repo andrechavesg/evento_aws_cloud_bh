@@ -1,0 +1,30 @@
+
+Cloud
+Destrinchando a responsabilidade na IA
+aws
+Experience
+2025
+Proteção
+do sistema para evitar resultados negativos do sistema, metas
+incentivar Design respostas precisas e relevantes e alinhar com
+Cloud
+Os riscos só podem ser gerenciados por meio da aplicação de
+de equidade, parcialidade e a intencionalidade desejada
+como Amazon Bedrock Guardrails
+probabilisticamente, serviços Os sistemas risco
+atuais só podem abordar esse
+Experience
+e os clientes precisarão calibrar O risco
+aceitável antes da implantação
+a
+2025
+Segurança
+Design do sistema para evitar revelar informações
+sensiveis/confidenciais a usuários não autorizados
+.
+A melhor prática é usar controles de segurança tradicionais para
+filtrar todos os dados antes que eles entrem no modelo
+fundacional com base na identidade do usuário final
+Usar controles determinísticos, auditáveis e explicáveis
+Qualquer falha do sistema onde os usuários podem ser expostos
+a conteúdo não autorizado deve ser considerada um erro fatal

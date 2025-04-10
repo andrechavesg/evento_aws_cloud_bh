@@ -1,0 +1,44 @@
+
+Simplifique integração de dados
+Elimine a necessidade de criação de pipelines de dados com integração de dados no local
+ience
+Zero-ETL integrations
+Amazon OpenSearch
+AWS Glue
+Amazon Redshift
+Service
+E
+P
+(2
+B
+P
+T
+@
+EXP
+To
+Amazon
+Amazon
+Amazon
+Amazon
+Amazon
+Amazon
+AWS
+AWS
+AWS
+Salesforce
+Aurora
+Aurora
+RDS for
+DynamoDB
+DynamoDB
+DynamoDB
+CloudTrail
+Security
+Connect
+MySQL
+PostgreSQL
+MySQU
+Lake
+Lake
+aws
+19

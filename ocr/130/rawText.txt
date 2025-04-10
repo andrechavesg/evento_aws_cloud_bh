@@ -1,0 +1,32 @@
+
+Avalie prompts e respostas de modelo
+Cloud
+para agentes, bases de conhecimento,
+aws
+Experience
+2025
+FMs no Amazon Bedrock e FMs
+personalizados ou de terceiros
+Configure limites para filtrar conteúdo prejudicial,
+Amazon Bedrock
+jailbreaks e ataques de injeção de prompt
+Guardrails
+ce
+Implemente guardrails personalizados
+Defina e proíba tópicos negados com descrições
+av
+de acordo com os requisitos da sua
+curtas em linguagem natural
+aplicação e alinhados com suas políticas
+de IA responsável
+Bloqueia até 85% mais conteúdo prejudicial
+Remova informações de identificação pessoal (PII)
+do que a proteção nativamente fornecida por
+e informações confidenciais em aplicativos de Gen
+alguns FMs no Amazon Bedrock hoje e filtra
+Al
+mais de 75% das respostas alucinadas para
+cargas de trabalho de RAG e sumarização
+Filtrar alucinações detectando a fundamentação e a
+relevância das respostas do modelo com base no contexto
+21

@@ -1,0 +1,28 @@
+
+Cloud
+aws
+Experience
+2025
+Nenhum dado do cliente é usado para treinar os modelos fundamentais
+subjacentes
+Management Todos os Service (KMS) e criptografados em transito TLS 1.2
+dados são criptografados em repouso usando O AWS com Key
+Cloud
+(mínimo)
+Experience
+Amazon Bedrock
+AWS PrivateLink para que os clientes possam O estabelecer serviço
+conectividade Suporte para privada entre virtual private clouds (VPCs) e
+2025
+mantém a segurança
+Amazon Bedrock usando VPC endpoints
+e privacidade dos
+Os modelos ajustados (fine-tuned) são criptografados e armazenados
+usando a chave AWS KMS do cliente; somente você tem acesso aos seus
+dados
+modelos personalizados
+Os dados usados para personalizar modelos permanecem na sua VPC
+Integração com IAM para controles de acesso detalhados e Amazon
+GuardDuty para detecção de ameaças
+Suporte para padrões de privacidade de dados, incluindo GDPR, HIPAA e
+PCI

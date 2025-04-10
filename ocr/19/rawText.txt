@@ -1,0 +1,26 @@
+
+Observabilidade
+do LLM
+Compreender O desempenho do
+modelo
+Entenda todo o ciclo de vida do
+GUAS cadeias de
+aws
+etapas incluindo intermediárias LIM, identificar entrada/salda prompt fatores
+para
+que afetam o desempenho de seus modelos
+aws
+no momento da inferência
+Monitorar O desempenho
+operacional
+Analisan O desempenho técnico do aplicativo
+LLM como a latência das cadeia LLM, o
+consumo de tokens os custos entre os
+modelos
+Avaliar a qualidade e a segurança
+dos LLMs
+Analise as respostas do modelo quanto à
+qualidade do resposta. releváncia e detecção
+de vazamentos de PII injeção imediata com
+DATADOG
+regras de avaliação OOTB
